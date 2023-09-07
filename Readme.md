@@ -4,6 +4,7 @@
 
 1 - Uma palavra. O programa deve acessar a página e obter o conteúdo da página
 e em seguida apresentar as seguintes informações:
+
     ● Contagem de cada palavra
         O desafio é contar quantas vezes a palavra informada aparece no
         texto.
@@ -19,9 +20,11 @@ e em seguida apresentar as seguintes informações:
         as palavras únicas encontradas.
 
 Instruções de Entrega:
+
 ● O código deve ser entregue no classroom em um arquivo .py
 ● Não deve ser entregue o arquivo .env nem o arquivo .ide
 ● O trabalho deve ser desenvolvido e entregue em grupos de até três alunos
 ● O trabalho vale 30% da N1.
 ● O trabalho deve ser entregue até às 19:00 do dia 07/09/2023.
+
 OBS: para este trabalho você precisará instalar a biblioteca requests
